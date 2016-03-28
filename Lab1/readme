@@ -1,0 +1,43 @@
+CS240 Data Stuctures and Algorithms
+Spring 2016
+Lab1 README FILE
+
+Due Date: 
+Submission Date: 2/4/16
+Author(s): John Null
+e-mail(s): jnull1@binghamton.edu
+
+PURPOSE:
+To print out 3 lines using multiple source files.
+
+PERCENT COMPLETE:
+100%
+
+PARTS THAT ARE NOT COMPLETE:
+none
+
+BUGS:
+makefile won't work only on mimir occasionally.
+
+FILES:
+lab1.cpp Hello.cpp Hello.h makefile readme
+
+SAMPLE OUTPUT:
+Hello World!
+C++ Data Structures!
+Hello from the Hello Class!
+
+TO RUN:
+make
+./lab1
+
+EXTRA CREDIT:
+Describe any extra credit you may have completed here
+
+BIBLIOGRAPHY:
+Any references or resources you may have used to help you complete the program
+
+MISCELLANEOUS:
+Any additional notes you feel are relevant to your submission
+
+
